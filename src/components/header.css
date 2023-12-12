@@ -1,0 +1,19 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    padding: 25px;
+    font-size: larger;
+}
+
+.nav-items>ul{
+ display: flex;
+ padding-right: 50px;
+}
+.nav-items>ul > li{
+     padding: 0 25px;
+     list-style: none;
+   }
+   
