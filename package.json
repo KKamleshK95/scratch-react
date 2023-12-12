@@ -4,6 +4,9 @@
   "description": "depth react",
  
   "scripts": {
+    "start": "parcel index.htm",
+    "build": "parcel build index.htm",
+
     "test": "jest"
   },
   "author": "kamlesh",
